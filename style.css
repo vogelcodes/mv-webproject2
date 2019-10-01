@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+#title{
+    background: gray;
+    color: white;
+    margin:5%;
+}
+#info{
+    margin: 5%;
+}
+#img-caption{
+    margin-top: 5%;
+
+}
